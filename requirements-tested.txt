@@ -1,0 +1,10 @@
+# Versions exercised during delivery verification; Python 3.12
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.7.2
+streamlit==1.49.1
+plotly==6.3.0
+beautifulsoup4==4.13.5
+joblib==1.5.2
+pytest==8.4.2
